@@ -12,29 +12,37 @@ This system utilizes Machine Learning techniques to predict heart disease base
 
 ##  Quick look of Application 
 
-<center>![](/Image%20001.png)</center>
+![](/Image%20001.png)
 
 
 
 ## Demo
 
-
+<center>
 ![](demo.gif)
+</center>
 
 
 ## Tech Stack
 
+
 **Client:** HTML, CSS
+
 
 **Server:** Flask
 
+
 **Model:** Random Forest Classifier
+
 
 ## Dataset Link
 
+
 <a href="https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction"> **Heart Disease Dataset** </a>
 
+
 ## Run Locally
+
 
 Clone the project
 
@@ -42,11 +50,13 @@ Clone the project
   git clone https://project_name
 ```
 
+
 Go to the project directory
 
 ```bash
   cd project_name
 ```
+
 
 Install dependencies
 
@@ -55,22 +65,27 @@ Install dependencies
   pip install sklearn
 ```
 
+
 Run the project
 
 ```cmd
   python project_name.py
 ```
 
+
 # Hi, I'm Athang! 👋
+
 
 ## 🚀 About Me
 
 I want to become a data scientist.
 I'm now learning about data visualization and machine learning.
 
+
 ## 🔗 Connect with me
 
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Athang0)
+
 
 ## Other Common Github Profile Sections
 
