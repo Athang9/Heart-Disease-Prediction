@@ -1,8 +1,10 @@
-
 # Heart Disease Prediction using Machine Learning
 
 This system utilizes Machine Learning techniques to predict heart disease based on a few different parameters.
 
+## Heart Disease Prediction Deployed Website
+
+http://athangprojects.pythonanywhere.com/
 
 ## Features
 
@@ -10,7 +12,6 @@ This system utilizes Machine Learning techniques to predict heart disease base
 - Precise Output
 - High Accuracy
 - User Friendly UI
-
 
 ## Tech Stack
 
@@ -20,10 +21,10 @@ This system utilizes Machine Learning techniques to predict heart disease base
 
 **Model:** Random Forest Classifier
 
-
 ## Dataset Link
 
 **Dataset:** https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+
 ## Run Locally
 
 Clone the project
@@ -51,21 +52,19 @@ Run the project
   python project_name.py
 ```
 
-
 # Hi, I'm Athang! 👋
-
 
 ## 🚀 About Me
 
 I want to become a data scientist.
 I'm now learning about data visualization and machine learning.
 
-
 ## 🔗 Connect with me
+
 [![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Athang0)
 
-
 ## Other Common Github Profile Sections
+
 👩‍💻 I'm currently working on... Machine Learning and Data Visualization
 
 🧠 I'm currently learning... Machine Learning
@@ -74,9 +73,8 @@ I'm now learning about data visualization and machine learning.
 
 🤔 I'm looking for help with... Azure and PowerBI
 
-💬 Ask me about... Anything 
+💬 Ask me about... Anything
 
 📫 How to reach me... https://linktr.ee/Athang0
 
 😄 Pronouns... he/him
-
