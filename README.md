@@ -3,6 +3,10 @@
 This system utilizes Machine Learning techniques to predict heart disease based on a few different parameters.
 
 
+## Screenshot
+
+![](/Image%20001.png)
+
 ## Features
 
 - Heart Disease Prediction using Machine Learning
