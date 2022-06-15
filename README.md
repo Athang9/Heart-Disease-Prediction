@@ -12,7 +12,7 @@ This system utilizes Machine Learning techniques to predict heart disease base
 
 ##  Quick look of Application 
 
-![](/Image%20001.png)
+<center>![](/Image%20001.png)</center>
 
 
 
