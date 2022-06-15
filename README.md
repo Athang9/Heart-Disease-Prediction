@@ -2,9 +2,6 @@
 
 This system utilizes Machine Learning techniques to predict heart disease based on a few different parameters.
 
-## Heart Disease Prediction Deployed Website
-
-http://athangprojects.pythonanywhere.com/
 
 ## Features
 
