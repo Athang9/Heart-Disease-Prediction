@@ -3,16 +3,16 @@
 This system utilizes Machine Learning techniques to predict heart disease based on a few different parameters.
 
 
-## 
-
-![](/Image%20001.png)
-
 ## Features
 
 - Heart Disease Prediction using Machine Learning
 - Precise Output
 - High Accuracy
 - User Friendly UI
+
+##  Quick look of Application 
+
+![](/Image%20001.png)
 
 ## Tech Stack
 
