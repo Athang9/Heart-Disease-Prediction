@@ -18,9 +18,9 @@ This system utilizes Machine Learning techniques to predict heart disease base
 
 ## Demo
 
-<center>
+
 ![](demo.gif)
-</center>
+
 
 
 ## Tech Stack
