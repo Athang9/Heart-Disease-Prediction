@@ -14,6 +14,10 @@ This system utilizes Machine Learning techniques to predict heart disease base
 
 ![](/Image%20001.png)
 
+## Demo
+
+![](demo.gif)
+
 ## Tech Stack
 
 **Client:** HTML, CSS
