@@ -3,7 +3,7 @@
 This system utilizes Machine Learning techniques to predict heart disease based on a few different parameters.
 
 
-## Screenshot
+## 
 
 ![](/Image%20001.png)
 
@@ -24,7 +24,7 @@ This system utilizes Machine Learning techniques to predict heart disease base
 
 ## Dataset Link
 
-**Dataset:** https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+<a href="https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction"> **Heart Disease Dataset** </a>
 
 ## Run Locally
 
