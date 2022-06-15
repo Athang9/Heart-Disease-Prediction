@@ -19,12 +19,9 @@ This system utilizes Machine Learning techniques to predict heart disease base
 ## Demo
 
 
-![](demo.gif)
+![](demo.gif)   ![](demo1.gif)
 
 
-
-
-![](demo1.gif)
 
 
 
