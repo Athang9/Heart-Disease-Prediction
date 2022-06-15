@@ -1,0 +1,93 @@
+<html>
+<title>
+<head> Heart Disease Project by Athang </head>
+</title>
+<style>
+*{
+	font-size: 30px;
+	font-family: Courier New;
+}
+
+body{
+	background-image:url('/static/1.jpg')
+}
+
+img{
+width:170px;
+height:60px;
+}
+
+a
+{
+font-size:18px;
+padding-top: 2px;
+}
+a:link
+{
+color:black;
+text-decoration:none;
+}
+
+a:active
+{
+color:yellow;
+text-decoration:underline;
+}
+
+</style>
+<body>
+<img src="/static/logo.png" alt= "logo">
+<div style="text-align:right;">
+<a href="https://linktr.ee/Athang0" style="color:black"> Contact Me </a>
+</div>
+<center>
+<br>
+<div style = "background-color:#87CEEB; border-radius:5px; top-margin:10px">
+<br>
+<h1> Check whether you have Heart Disease or not?</h1>
+<br>
+<form action="/find">
+	<div class = box>
+	<label> Age </label>
+	<input type = "number" step = "any" name = "age" placeholder = "Enter Age (years) .. " style = "width:400px" min=1 required>
+	<br><br>
+	
+	<label> Resting BP </label>
+	<input type = "number" step = "any" name = "bp" placeholder = "Enter Blood Pressure (mmHg) .. " style = "width:570px " min=0 max=200 required>
+	<br><br>
+	
+	<label> Cholesterol </label>
+	<input type = "number" step = "any" name = "chole" placeholder = "Enter Cholesterol (mg/dL) .. " style = "width:550px" min=0 max=600 required>
+	<br><br>
+	
+	<label> MaxHR </label>
+	<input type = "number" step = "any" name = "hr" placeholder = "Enter MaxHR (bpm) .. " style = "width:400px" min=60 max=202 required>
+	<br><br>
+	
+	<label> Oldpeak </label>
+	<input type = "number" step = "0.5" name = "peak" placeholder = "Enter Oldpeak .. " style = "width:400px" min = -2.5 max=6.0 required>
+	<br><br>
+	
+	<label> Exercise </label>
+	<input type = "radio" name = "r1" value = "no" checked> No </input>
+	<input type = "radio" name = "r1" value = "yes"> Yes </input>
+	<br><br>
+	
+	<label> ST Slope </label>
+	<input type = "radio" name = "r2" value = "d" checked> Down </input>
+	<input type = "radio" name = "r2" value = "f"> Flat </input>
+	<input type = "radio" name = "r2" value = "u"> Up </input>
+	<br><br>
+	
+	</div>
+
+	<input type = "submit" value="Find">
+
+</form>
+<br>
+{{ m }}
+<br><br>
+</div>
+</center>
+</body>
+</html>

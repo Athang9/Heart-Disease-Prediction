@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>
+	Login-Signup to Athang Project
+</title>
+<style>
+img
+{
+width:"170";
+height:"60"; 
+}
+</style>
+<link rel="stylesheet" href="sign.css">
+</head>
+<body>
+<img src="logo.png" alt="logo">
+<div class="login-page">
+  <div class="form">
+    <form class="login-form">
+      <input type="text" placeholder="name"/>
+      <input type="password" placeholder="password"/>
+      <input type="text" placeholder="email address"/>
+      <button>create</button>
+      <p class="message">Already registered? <a href="log.html">Sign In</a></p>
+    </form>
+  </div>
+</div>
+</body>
+</html>
+
+<script>
+$('.message a').click(function(){
+   $('form').animate({height: "toggle", opacity: "toggle"}, "slow");
+});
+</script>
