@@ -76,6 +76,6 @@ I'm now learning about data visualization and machine learning.
 
 💬 Ask me about... Anything
 
-📫 How to reach me... https://linktr.ee/Athang0
+📫 How to reach me... <a href="https://linktr.ee/Athang0"> Click here </a>
 
 😄 Pronouns... he/him
