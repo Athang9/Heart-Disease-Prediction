@@ -97,7 +97,7 @@ I'm now learning about data visualization and machine learning.
 
 ## 🔗 Connect with me
 
-[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Athang0)
+[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Athang9)
 
 
 ## Other Common Github Profile Sections
@@ -112,6 +112,6 @@ I'm now learning about data visualization and machine learning.
 
 💬 Ask me about... Anything
 
-📫 How to reach me... <a href="https://linktr.ee/Athang0"> Click here </a>
+📫 How to reach me... <a href="https://linktr.ee/Athang9"> Click here </a>
 
 😄 Pronouns... he/him
